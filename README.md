@@ -2,6 +2,11 @@
 ## PROJECT OVERVIEW
 This project was carried out to analyze the performance of Maven Toys, a chain of toy stores based in Mexico. The project involved the sales of the company over a period of almost two years from January 2017 to September 2018. It involved a comprehensive analysis into the sales, inventory, products and stores of the company. Here I seek to delve into and explore the data, analyze the trends and characteristics  of the company, and therefore gain valuable insight into the performance and overall standing of the company and its subsidiaries.
 ## DATA SOURCES
+Four tables were used in this analysis:
+- stores.csv: contains details about each store.
+- products.csv: contains information about the products sold by the company.
+- inventory.csv: contains details about the quantity of goods each store has.
+- sales.csv: contains details of each sale.
 ## TOOLS USED
 -Microsoft Excel – Data cleaning and preparation
 - SQL – Data analysis and exploration
